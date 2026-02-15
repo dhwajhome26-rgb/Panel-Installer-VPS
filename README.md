@@ -265,10 +265,12 @@ Step 1: ```curl -sSL https://get.featherpanel.com/installer.sh | bash```
 
 Now Your Own Premium Hosting [ Real / CodeSpace - VPS Requird ]
 
+## 🌞 SolarPanel
+
+Is Available On Panel Installer [ Panel By DhwaJ_XD - Edited - TeryxPanel -  HopingBOYZ
+
 [ This Codes Working On All VPS Like WorkSpace / Codespace / Real-VPS ]
 
-## 🌞 SolarPanel
-Is Available On Panel Installer [ Panel By DhwaJ_XD - Edited - TeryxPanel -  HopingBOYZ
 ---
 Credit all these guys!:
 * SoloPlayz
