@@ -269,6 +269,18 @@ Now Your Own Premium Hosting [ Real / CodeSpace - VPS Requird ]
 
 Is Available On Panel Installer [ Panel By DhwaJ_XD - Edited - TeryxPanel -  HopingBOYZ
 
+## 💻 VM Manager
+Is Available On Panel Installer
+
+## 🐢 Panel Installer 1.5
+Panel Installer / All Code - Made By DhwaJ_XD 
+
+Step 1: ```git clone https://github.com/dhwajhome26-rgb/Panel-Installer.git```
+
+Step 2: ```cd Panel-Installer```
+
+Step 3: ```bash panel-installer-1.5.sh```
+
 [ This Codes Working On All VPS Like WorkSpace / Codespace / Real-VPS ]
 
 ---
